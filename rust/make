@@ -1,0 +1,3 @@
+#!/bin/bash
+
+rustc --edition 2021 main.rs -o dbms
